@@ -10,14 +10,14 @@ At PulseDynamics, our mission is to leverage technology to build robust and dyna
 
 Our organization focuses on:
 
-### Sport Analytics (PulseDynamics-Sport)
+### Sport Analytics (PulseDynamics-Sport 'pDS')
 - Building platforms that deliver real-time sports statistics and insights.
 
-### Educational Tools (PulseDynamics-Edu)
+### Educational Tools (PulseDynamics-Edu 'pDE')
 - Developing websites and applications that facilitate learning.
 - Creating interactive content to make educational toosl more engaging and accessible.
 
-### Generic Solutions (PulseDynamics-Gen)
+### Generic Solutions (PulseDynamics-Gen 'pDG')
 - Crafting versatile servers and websites for a variety of uses.
 - Ensuring our solutions are scalable, secure, and user-friendly.
 
