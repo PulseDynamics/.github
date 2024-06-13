@@ -47,12 +47,5 @@ Here are some of the exciting projects we are working on:
 
 We are always looking for talented developers, enthusiastic collaborators, and insightful feedback. If you're interested in contributing or have any suggestions, feel free to reach out!
 
-## 📫 Contact Us
-
-Stay connected with us:
-- **Email**: noahcornish.github@gmail.com
-
-Join us on our journey to create dynamic and impactful digital solutions!
-
 ---
 *Powered by: PulseDynamics*
