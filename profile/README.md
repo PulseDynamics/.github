@@ -17,6 +17,9 @@ Our organization focuses on:
 - Developing websites and applications that facilitate learning.
 - Creating interactive content to make educational toosl more engaging and accessible.
 
+### Weather (PulseDynamics-Weather 'pDW')
+- Developing websites and applications to host weather updates.
+
 ### Generic (PulseDynamics-Gen 'pDG')
 - Crafting versatile servers and websites for a variety of uses.
 - Ensuring our solutions are scalable, secure, and user-friendly.
@@ -36,6 +39,7 @@ We pride ourselves on our ability to work with a multitude of programming langua
 Here are some of the exciting projects we are working on:
 
 - **StatsPro (PulseDynamics-Sport)**: An advanced platform for comprehensive sports analytics.
+- **WeatherPro (PulseDynamics-Weather)**: An advanced platform for hosting weather updates in the form of a bulletin. 
 - **EduLearn (PulseDynamics-Edu)**: A dynamic educational tool designed to facilitate interactive learning.
 - **GenWeb (PulseDynamics-Gen)**: A robust, customizable web server for various generic applications.
 
